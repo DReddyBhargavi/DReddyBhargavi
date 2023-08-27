@@ -11,32 +11,31 @@
 
 🔗**Education**
 
-     B.Tech. in Electrical And Electronics Engineering.
+    - B.Tech. in Electrical And Electronics Engineering.
 
 🔗**Certification**
 
-      Certified In Advanced IOT Applications (NPTEL) 
+     - Certified In Advanced IOT Applications (NPTEL) 
       
-      Certified in Python(Udemy)
+     - Certified in Python(Udemy)
 
           
 🔗**Programming Skills**
 
-           Python / SQL / MATLAB
+          - Python / SQL / MATLAB
 
 🔗**Skills And Tools**
 
-          vs code, pandas, numpy,scikit-learn, tensorflow.
+        -  vs code, pandas, numpy,scikit-learn, tensorflow.
 
 🔗**Languages**
 
-          English
-          Hindi
+         - English
+         - Hindi
 
 - 🔭 I’m currently learning Data Science.
 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DReddyBhargavi)](https://github.com/anuraghazra/github-readme-stats)
-- 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/d-bhargavi-a854b117a//)  
