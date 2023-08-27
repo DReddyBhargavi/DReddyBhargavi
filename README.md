@@ -1,4 +1,4 @@
--###  Hi, I am D Bhargavi.
+###  Hi, I am D Bhargavi.
 
 #### I am Data science Aspirant.
 
@@ -11,27 +11,27 @@
 
 🔗**Education**
 
-    - B.Tech. in Electrical And Electronics Engineering.
+     B.Tech. in Electrical And Electronics Engineering.
 
 🔗**Certification**
 
-     - Certified In Advanced IOT Applications (NPTEL) 
+     Certified In Advanced IOT Applications (NPTEL) 
       
-     - Certified in Python(Udemy)
+     Certified in Python(Udemy)
 
           
 🔗**Programming Skills**
 
-          - Python / SQL / MATLAB
+     Python / SQL / MATLAB
 
 🔗**Skills And Tools**
 
-        -  vs code, pandas, numpy,scikit-learn, tensorflow.
+     vs code, pandas, numpy,scikit-learn, tensorflow.
 
 🔗**Languages**
 
-         - English
-         - Hindi
+         English
+         Hindi
 
 - 🔭 I’m currently learning Data Science.
 
