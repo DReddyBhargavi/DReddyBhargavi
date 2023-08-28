@@ -7,7 +7,7 @@
 
 📧bhargavi998d@gmail.com
 
-📝you can check** My  CV** ( [link](https://www.dropbox.com/scl/fi/z05etw874ejgohmgp65xz/Bhargavi-CV-2.pdf?rlkey=5g79ag8n1r751go3vwt4uas8g&dl=0))
+📝you can check **My  CV** ( [link](https://www.dropbox.com/scl/fi/z05etw874ejgohmgp65xz/Bhargavi-CV-2.pdf?rlkey=5g79ag8n1r751go3vwt4uas8g&dl=0))
 
 🔗**Education**
 
