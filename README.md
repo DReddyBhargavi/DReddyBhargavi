@@ -4,6 +4,7 @@
 
 
 👩I am passionate about technology,data. I am enthusiastic about learning .I am looking for a position in the data scientist .
+
 👩I have a B.Tech in Electrical and Electronics Engineering .My thesis was on the Power System
 
 if you want to get in touch,contact me by g-mail:📧 bhargavi998d@gmail.com
