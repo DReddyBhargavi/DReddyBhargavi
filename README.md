@@ -1,6 +1,6 @@
 ###  Hi, I am D Bhargavi.
 
-#### I am a junior Data Scientist.
+#### I am a Junior Data Scientist.
 
 
 👩I am passionate about technology,data. I am enthusiastic about learning .I am looking for a position in the data scientist .
@@ -35,7 +35,7 @@ if you want to get in touch,contact me by g-mail:📧 bhargavi998d@gmail.com
  
  Hindi
 
-- 🔭 I’m currently learning Data Science.
+
 
 
 
