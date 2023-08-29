@@ -12,19 +12,27 @@ if you want to get in touch,contact me by g-mail:📧 bhargavi998d@gmail.com
 📝you can check **My  CV** ( [link](https://www.dropbox.com/scl/fi/z05etw874ejgohmgp65xz/Bhargavi-CV-2.pdf?rlkey=5g79ag8n1r751go3vwt4uas8g&dl=0))
 
 🔗**Education**
+
 B.Tech. in Electrical And Electronics Engineering.
 
 🔗**Certification**
+
  Certified In Advanced IOT Applications (NPTEL) 
+ 
  Certified in Python(Udemy)
      
 🔗**Programming Skills**
+
  Python / SQL / MATLAB
 
 🔗**Skills And Tools**
+
  vs code, pandas, numpy,scikit-learn, tensorflow.
+ 
 🔗**Languages**
+
  English
+ 
  Hindi
 
 - 🔭 I’m currently learning Data Science.
