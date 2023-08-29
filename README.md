@@ -13,7 +13,7 @@ if you want to get in touch,contact me by g-mail:📧 bhargavi998d@gmail.com
 
 🔗**Education**
 
-B.Tech. in Electrical And Electronics Engineering.
+(2016-2020)B.Tech. in Electrical And Electronics Engineering.
 
 🔗**Certification**
 
